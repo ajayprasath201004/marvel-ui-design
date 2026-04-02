@@ -27,30 +27,6 @@ This project demonstrates a visually engaging character showcase UI with smooth 
 
 ---
 
-## 📸 Screenshots
-
-### 🐾 Black Panther
-![Black Panther](images/black-panther.png)
-
-### 🛡️ Captain America
-![Captain America](images/captain-america.png)
-
----
-
-## 🎥 Demo
-
-https://github.com/your-username/marvel-ui-design/assets/demo.mp4
-
-*(or upload video directly in repo)*
-
----
-
-## 🔗 Figma Prototype
-
-👉 Add your Figma link here
-
----
-
 ## 📌 Future Improvements
 
 - Convert design into responsive website
